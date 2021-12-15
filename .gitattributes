@@ -1,0 +1,7 @@
+* text-auto
+
+*.jpg binary
+*.png binary
+*.prefab binary
+*.unity binary
+*.asset binary
